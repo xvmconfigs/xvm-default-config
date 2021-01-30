@@ -1,5 +1,5 @@
 # XVM's default config
-This repo is a fork of https://gitlab.com/xvm/xvm/-/tree/master/release/configs/default and can be used as a template to generate XVM configs.<br>
+This repo is a fork of https://gitlab.com/xvm/xvm/-/tree/master/release/configs/default and can be [used as a template](https://github.com/xvmconfigs/xvm_default_config/wiki/How-to-use-this-repo-as-a-template) to generate XVM configs.<br>
 The repo is [automatically updated](https://github.com/xvmconfigs/xvm-default-config-updater).
 
 ## Disclaimer
