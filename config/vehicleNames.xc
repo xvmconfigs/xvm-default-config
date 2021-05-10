@@ -4,7 +4,7 @@
  */
 {
   "vehicleNames": {
-    // Last update: 27.02.2021
+    // Last update: 27.04.2021
     "china-Ch01_Type59":                     {"name": null, "short": null},
     "china-Ch01_Type59_Gold":                {"name": null, "short": null},
     "china-Ch02_Type62":                     {"name": null, "short": null},
@@ -56,10 +56,12 @@
     "china-Ch39_WZ120_1G_FT_FL":             {"name": null, "short": null},
     "china-Ch40_WZ120G_FT":                  {"name": null, "short": null},
     "china-Ch41_WZ_111_5A":                  {"name": null, "short": null},
+    "china-Ch41_WZ_111_5A_WB":               {"name": null, "short": null},
     "china-Ch41_WZ_111_5A_bob":              {"name": null, "short": null},
     "china-Ch41_WZ_111_QL":                  {"name": null, "short": null},
     "china-Ch42_WalkerBulldog_M41D":         {"name": null, "short": null},
     "china-Ch43_WZ_122_2":                   {"name": null, "short": null},
+    "china-Ch44_114_SP2":                    {"name": null, "short": null},
     "czech-Cz01_Skoda_T40":                  {"name": null, "short": null},
     "czech-Cz02_TVP_T50":                    {"name": null, "short": null},
     "czech-Cz03_LT_vz35":                    {"name": null, "short": null},
@@ -304,6 +306,7 @@
     "germany-G80_Pz_IV_AusfD":               {"name": null, "short": null},
     "germany-G80_Pz_IV_AusfD_bootcamp":      {"name": null, "short": null},
     "germany-G81_Pz_IV_AusfH":               {"name": null, "short": null},
+    "germany-G81_Pz_IV_AusfH_GuP":           {"name": null, "short": null},
     "germany-G82_Pz_II_AusfG":               {"name": null, "short": null},
     "germany-G83_Pz_IV_AusfA":               {"name": null, "short": null},
     "germany-G85_Auf_Panther":               {"name": null, "short": null},
@@ -645,6 +648,7 @@
     "usa-A81_T95_E2":                        {"name": null, "short": null},
     "usa-A83_T110E4":                        {"name": null, "short": null},
     "usa-A85_T110E3":                        {"name": null, "short": null},
+    "usa-A85_T110E3_WB":                     {"name": null, "short": null},
     "usa-A86_T23E3":                         {"name": null, "short": null},
     "usa-A87_M44":                           {"name": null, "short": null},
     "usa-A88_M53_55":                        {"name": null, "short": null},
@@ -705,6 +709,7 @@
     "ussr-R125_T_45":                        {"name": null, "short": null},
     "ussr-R126_Object_730_5":                {"name": null, "short": null},
     "ussr-R127_T44_100_K":                   {"name": null, "short": null},
+    "ussr-R127_T44_100_M":                   {"name": null, "short": null},
     "ussr-R127_T44_100_P":                   {"name": null, "short": null},
     "ussr-R127_T44_100_U":                   {"name": null, "short": null},
     "ussr-R128_KV4_Kreslavskiy":             {"name": null, "short": null},
@@ -838,6 +843,7 @@
     "ussr-R96_Object_430":                   {"name": null, "short": null},
     "ussr-R96_Object_430B":                  {"name": null, "short": null},
     "ussr-R97_Object_140":                   {"name": null, "short": null},
+    "ussr-R97_Object_140_WB":                {"name": null, "short": null},
     "ussr-R98_T44_85":                       {"name": null, "short": null},
     "ussr-R98_T44_85M":                      {"name": null, "short": null},
     "ussr-R99_T44_122":                      {"name": null, "short": null}
