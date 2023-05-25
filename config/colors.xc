@@ -36,11 +36,11 @@
     // Системные цвета.
     "system": {
       // Format:    object_state
-      // Object:    ally, squadman, teamKiller, enemy, self.
+      // Object:    ally, squadman, teamKiller, enemy, player.
       // State:     alive, dead, blowedup.
       // ----
       // Формат:    объект_состояние
-      // Объект:    ally - союзник, squadman - взводный, teamKiller - тимкиллер, enemy - противник, self - урон наносимый самому себе.
+      // Объект:    ally - союзник, squadman - взводный, teamKiller - тимкиллер, enemy - противник, player - игрок.
       // Состояние: alive - живой, dead - мертвый, blowedup - взорвана боеукладка.
       "ally_alive":          ${"def.al"},
       "ally_dead":           "0x009900",
@@ -54,9 +54,9 @@
       "enemy_alive":         ${"def.en"},
       "enemy_dead":          "0x840500",
       "enemy_blowedup":      "0x5A0401",
-      "self_alive":          ${"def.self"},
-      "self_dead":           "0xBB00BB",
-      "self_blowedup":       "0x990099"
+      "player_alive":        ${"def.pl"},
+      "player_dead":         "0xDDAA00",
+      "player_blowedup":     "0xBB9900"
     },
     // Dynamic color by damage kind.
     // Динамический цвет по типу урона.
