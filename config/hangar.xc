@@ -10,6 +10,9 @@
     // true - show "Premium shop" button.
     // true - показать кнопку "Премиум магазин".
     "showPremiumShopButton": true,
+    // true - show "WoT Plus" subscription button.
+    // true - показать кнопку подписки "WoT Plus".
+    "showWotPlusButton": true,
     // true - show "Create squad" text on the squad creation button.
     // true - показать текст "Создать взвод" на кнопке создания взвода.
     "showCreateSquadButtonText": true,
@@ -37,6 +40,12 @@
     // true - show banner of various events in the hangar.
     // true - показывать баннер различных событий в ангаре.
     "showEventBanner": true,
+    // true - show elite levels widget in the hangar.
+    // true - показывать виджет уровней элитности в ангаре.
+    "showHangarPrestigeWidget": true,
+    // true - show elite levels widget in the profile for vehicle statistics.
+    // true - показывать виджет уровней элитности в профиле для статистики техники.
+    "showProfilePrestigeWidget": true,
     // "Combat Intelligence" - show/hide notifications in the main window and counters in the menu.
     // "Полевая почта" - показывать/прятать уведомления в главном окне и счетчики в меню.
     "combatIntelligence": {
