@@ -56,31 +56,6 @@
       // Текст при взрыве боеукладки (см. описание макросов в macros_ru.txt).
       "blowupMessage": "{{l10n:blownUp}}\n{{dmg}}"
     },
-    // Vehicle distance (Lesta only).
-    // Дистанция до техники (только для Lesta).
-    "vehicleDist": {
-      "enabled": false,
-      "x": 0,
-      "y": -66,
-      "alpha": 100,
-      "align": "center",
-      "textFormat": {
-        "font": "$FieldFont",
-        "size": 13,
-        "color": null,
-        "bold": false,
-        "italic": false
-      },
-      "shadow": {
-        "enabled": true,
-        "distance": 0,
-        "angle": 45,
-        "color": "0x000000",
-        "alpha": 100,
-        "blur": 6,
-        "strength": 2
-      }
-    },
     // Text field with the name of the player.
     // Текстовое поле с именем игрока.
     "playerName": {
@@ -241,10 +216,30 @@
     "damageTextSquadman": {
       "$ref": { "path":"def.damageText" }
     },
-    // Distance to allied vehicles (Lesta only).
-    // Дистанция до техники союзников (только для Lesta).
+    // Distance to allied vehicles.
+    // Дистанция до техники союзников.
     "vehicleDist": {
-      "$ref": { "path":"def.vehicleDist" }
+      "enabled": false,
+      "x": 0,
+      "y": -66,
+      "alpha": 100,
+      "align": "center",
+      "textFormat": {
+        "font": "$FieldFont",
+        "size": 13,
+        "color": null,
+        "bold": false,
+        "italic": false
+      },
+      "shadow": {
+        "enabled": true,
+        "distance": 0,
+        "angle": 45,
+        "color": "0x000000",
+        "alpha": 100,
+        "blur": 6,
+        "strength": 2
+      }
     },
     // Vehicle contour icon.
     // Контурная иконка танка.
@@ -371,10 +366,30 @@
     "damageTextSquadman": {
       "$ref": { "path":"def.damageText" }
     },
-    // Distance to enemy vehicles (Lesta only).
-    // Дистанция до техники противников (только для Lesta).
+    // Distance to enemy vehicles.
+    // Дистанция до техники противников.
     "vehicleDist": {
-      "$ref": { "path":"def.vehicleDist" }
+      "enabled": false,
+      "x": 0,
+      "y": -66,
+      "alpha": 100,
+      "align": "center",
+      "textFormat": {
+        "font": "$FieldFont",
+        "size": 13,
+        "color": null,
+        "bold": false,
+        "italic": false
+      },
+      "shadow": {
+        "enabled": true,
+        "distance": 0,
+        "angle": 45,
+        "color": "0x000000",
+        "alpha": 100,
+        "blur": 6,
+        "strength": 2
+      }
     },
     // Vehicle contour icon.
     // Контурная иконка танка.
