@@ -40,6 +40,9 @@
     // true - show banner of various events in the hangar.
     // true - показывать баннер различных событий в ангаре.
     "showEventBanner": true,
+    // true - show lootbox widget in hangar.
+    // true - показывать виджет лутбоксов в ангаре.
+    "showLootboxesWidget": true,
     // true - show elite levels widget in the hangar.
     // true - показывать виджет уровней элитности в ангаре.
     "showHangarPrestigeWidget": true,
@@ -187,12 +190,6 @@
     // true - allow to consider the exchange of experience with gold in tech tree.
     // true - разрешить учитывать обмен опыта за золото в дереве исследований.
     "allowExchangeXPInTechTree": true,
-    // true - show flags in barracks.
-    // true - показывать флаги в казарме.
-    "barracksShowFlags": true,
-    // true - show skills in barracks.
-    // true - показывать умения в казарме.
-    "barracksShowSkills": true,
     // true - restore selected battle type on switching to another server, at the next login to the client.
     // true - восстанавливать выбранный тип боя при переключении на другой сервер, при следующем входе в клиент.
     "restoreBattleType": false,
@@ -425,22 +422,6 @@
     // true - show notifications counters in the window and on the button "Exterior".
     // true - показать счетчики уведомлений в окне и на кнопке "Внешний вид".
     "showCustomizationCounter": true,
-    // Parameters of sorting tankmen in barracks.
-    // Параметры сортировки танкистов в казарме.
-    "barracks": {
-      // Order of nations.
-      // Порядок наций.
-      //"nations_order": ["ussr", "germany", "usa", "china", "france", "uk", "japan", "czech", "poland", "sweden", "italy"],
-      "nations_order": [],
-      // Order of crew roles.
-      // Порядок ролей экипажа.
-      // "roles_order": ["commander", "gunner", "driver", "radioman", "loader"],
-      "roles_order": [],
-      // Tankmen sorting criteria, available options: (minus = reverse order)
-      // Критерии сортировки танкистов, доступные значения: (минус = в обратном порядке)
-      // "nation", "role", "level", "-level", "XP", "-XP", "gender", "-gender", "inVehicle", "-inVehicle", "vehicle"
-      "sorting_criteria": ["nation", "inVehicle", "vehicle", "role"]
-    },
     // Parameters for tank carousel.
     // Параметры карусели танков.
     "carousel": ${"carousel.xc":"carousel"},
